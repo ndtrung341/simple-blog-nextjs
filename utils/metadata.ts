@@ -6,7 +6,7 @@ const siteMetadata = {
    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
    language: 'en-us',
    theme: 'system', // system, dark or light
-   siteUrl: 'https://simple-blog-nextjs-beta.vercel.app/p', // your website URL
+   siteUrl: 'https://simple-blog-nextjs-beta.vercel.app', // your website URL
    siteLogo: '/logo.png',
    socialBanner: '/social-banner.png', // add social banner in the public folder
    email: 'codebucks27@gmail.com',
